@@ -21,7 +21,8 @@
         git clone URL
 
 Ex:
-        git clone `https://github.com/CaseResende/hello-world.git`
+
+        git clone https://github.com/CaseResende/hello-world.git
 
 - Para salvar as credenciais e não ter que ficar inserindo toda hora, digite o seguinte comando:
 
